@@ -19,6 +19,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/demo-quickstart.gif" alt="Quick Start demo" width="720" />
+</p>
+
 You know what tools you need. You just don't want to spend hours reading tutorials, running terminal commands, and debugging config files to make them work together.
 
 **AI Gene Capsule** turns multi-tool setup into a guided flow. It checks your system, installs what's missing, connects everything, and gives you a working result — no coding required.
