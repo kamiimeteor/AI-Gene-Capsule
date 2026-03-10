@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="assets/demo-quickstart.gif" alt="Quick Start 演示" width="720" />
+  <img src="assets/demo-quickstart-zh.gif" alt="Quick Start 演示" width="720" />
 </p>
 
 你知道自己需要什么工具，但不想花几个小时看教程、敲命令行、调配置文件。
