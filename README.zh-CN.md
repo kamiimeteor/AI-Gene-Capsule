@@ -1,7 +1,7 @@
 # OpenKnack
 
 <p align="center">
-  <img src="assets/gene_capsule_logo.png" alt="OpenKnack" width="320" />
+  <img src="assets/openknack_logo.png" alt="OpenKnack" width="420" />
 </p>
 
 <p align="center"><b>别再折腾配置了，直接用。</b></p>
